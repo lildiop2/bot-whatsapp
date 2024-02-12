@@ -1,0 +1,5 @@
+.env
+.wwebjs_cache
+nodemon.json
+**/node_modules
+session-store
